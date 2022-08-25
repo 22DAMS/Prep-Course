@@ -1,0 +1,5 @@
+Variables: Es una forma de almacenar datos o valores que voy a utilizar en mi codigo.
+Strings: Son datos de tipo texto que van entre comillas
+Funciones: se usan para realizar acciones que pueden ser repetitivas y con esto no escribir codigo repetitivo.
+Declaraciones: se usan para determinar si se cumple una condición y devolver un valor especifico ya sea que se cumpla o no.
+Valores booleanos: Datos o respuestas de verdadero o falso
