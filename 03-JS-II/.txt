@@ -1,0 +1,5 @@
+// For: Es la forma en la que los programadores ejecutan codigo que necesita hacer una misma operación muchas veces, sin la necesidad de escribir de 
+manera repetitiva la misma operación.
+
+Operadores Booleanos: Son los operadores que se utilizan para comparar valores booleanos true y false y al igual que los operadores matematicos,
+tienen reglas al momento de calcular el resultado.
