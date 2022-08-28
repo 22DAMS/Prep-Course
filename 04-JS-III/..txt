@@ -1,0 +1,2 @@
+// Arrays: son listas de elementos que pueden ser datos de cualquier tipo y tienen asignada una posición determinada,
+los usamos para almacenar listados de datos y utilizarlos en el momento que se requiera.
