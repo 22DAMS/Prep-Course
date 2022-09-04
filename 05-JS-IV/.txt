@@ -1,0 +1,6 @@
+Objetos: figura en js en donde se puede guardar bastante información de una sola cosa.
+Propiedades: información especifica de un objeto que se almacena en el mismo.
+Metodos: son funciones que están dentro de un objeto.
+Bucle 'For...in': es un bucle utilizado para iterar las claves en los objetos.
+Notación de puntos y notación de corchetes: son las dos formas establecidas en js para llamar una propiedad de un objeto, usualmente se utiliza la notación de puntos y 
+es frecuente ver la notación de corchetes con metodos.
